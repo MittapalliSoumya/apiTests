@@ -6,7 +6,7 @@ public class ApiTests extends BaseTest {
 
 
      private String  payload = "{\"people\":[\"bill\", \"steve\", \"bob\"]}";
-     private String  updatedPayload = "{\"people\":[\"soumya\", \"arun\", \"aryan\"]}";
+     private String  updatedPayload = "{\"people\":[\"soumya\", \"Tom\", \"test\"]}";
      private String  blobId;
 
     @Test
